@@ -125,7 +125,7 @@
                 </div>
                 <div class="row">
                     <div class="col-3"><Strong>Other ID</Strong></div>
-                    <div class="col-5 text-center"><span t-field="doc.partner_id.sequence"></span></div>
+                    <!--<div class="col-5 text-center"><span t-field="doc.partner_id.sequence"></span></div>-->
                     <div class="col-4 text-right"><Strong>معرف آخر</Strong></div>
                 </div>
                 <div class="oe_structure"/>
